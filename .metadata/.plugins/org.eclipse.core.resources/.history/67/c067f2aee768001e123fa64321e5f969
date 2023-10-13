@@ -1,0 +1,10 @@
+package 챕터1;
+
+public class 구간_합_구하기2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
