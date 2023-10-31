@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
-//뭔가 길고 중요해보이니까 한번 풀어보자.
+//뭔가 길고 중요해보이니까 나중에 한번 풀어보자.
 public class 슬라이딩_윈도우 {
 	
 	static int checkArr[];

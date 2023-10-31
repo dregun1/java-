@@ -1,0 +1,20 @@
+package 챕터1;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.util.Scanner;
+import java.util.StringTokenizer;
+
+public class 슬라이딩윈도우_최솟값찾기 {
+	public static final Scanner scanner = new Scanner(System.in);
+	public static void main(String[] args) {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		//출력을 버퍼에 넣고 한 번에 출력하기 위해 BurreredWriter 사용
+		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+		StringTokenizer st = new StringTokenizer(br.readLine());
+		
+		
+	}
+}
