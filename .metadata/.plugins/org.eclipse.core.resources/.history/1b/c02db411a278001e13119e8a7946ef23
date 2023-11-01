@@ -1,0 +1,12 @@
+package 챕터1;
+
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+
+public class 절댓값힙 {
+public static void main(String[] args) {
+	BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+	int N = Integer.parseInt(br.readLine());
+	
+}
+}
